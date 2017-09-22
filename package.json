@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/aadityakalsi/jscc/issues"
   },
-  "homepage": "https://github.com/aadityakalsi/jscc#readme"
+  "homepage": "https://github.com/aadityakalsi/jscc#readme",
+  "dependencies": {
+    "jison": "^0.4.18"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
 }
