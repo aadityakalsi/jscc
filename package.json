@@ -1,0 +1,23 @@
+{
+  "name": "jscc",
+  "version": "0.1.0",
+  "description": "A C compiler written in JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha tests --slow 0ms"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadityakalsi/jscc.git"
+  },
+  "keywords": [
+    "js",
+    "cc"
+  ],
+  "author": "akalsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aadityakalsi/jscc/issues"
+  },
+  "homepage": "https://github.com/aadityakalsi/jscc#readme"
+}
